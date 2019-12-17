@@ -1,6 +1,6 @@
 import orderByProps from '../src/app';
 
-test('sort an array with additional parameters', () => {
+test('sort an array without additional parameters', () => {
   const obj = {
     name: 'мечник',
     health: 10,
